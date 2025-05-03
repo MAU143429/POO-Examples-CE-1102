@@ -1,0 +1,18 @@
+Que es una FSM??
+
+Significa Finite State Machine(maquina de estado finito)
+**Es utlixado para modelar sistemas depende de la historia de sus entradas y no solo de su entrada mas reciente
+**Es un modelo discxreto en el tiempo
+
+**Es utilizado para modelar sistemas cuya salida depende de la historiacompleta de sus entradas y no solo de su entrada más reciente
+
+**Es un modelo discreto en el tiempo
+	Las entradas y salidas se encuentran en intervalos especificos de tiempo
+Es el modelo matematico dela abstraccion de una maquina
+se compone de una lista de estados
+puede cambiar de un estado a otro es llamado una transiccion
+
+
+Porque son importantes los FSM
+
+-Conjuntos de estados
